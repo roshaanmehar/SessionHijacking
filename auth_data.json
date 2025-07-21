@@ -1,0 +1,171 @@
+{
+  "timestamp": "2025-06-26T23:23:35.160340",
+  "cookies": [
+    {
+      "domain": ".framer.com",
+      "expiry": 1782512597,
+      "httpOnly": true,
+      "name": "session.edit",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "ef656d78-e41f-422e-874a-719c4694019d"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1750978374,
+      "httpOnly": false,
+      "name": "FPGSID",
+      "path": "/",
+      "sameSite": "Strict",
+      "secure": true,
+      "value": "1.1750976575.1750976575.G-QZ2MPXED80.kMJXi45XSGNxhOiRd9yJLA"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1751048574,
+      "httpOnly": false,
+      "name": "FPLC",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "n85QCB1PjhSAbdBfHSMbBIxJRt0SnjuqUuLUnfAmhtkPozSLedZdd4IgzTuQrXmIE6irQOIIOZEC95h3liXCKd5LOuLfFYGUpuJGBAmsJGQwMzwLeD791iDP9YlM%2BA%3D%3D"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1782512597,
+      "httpOnly": true,
+      "name": "session",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "f3a83561-9de0-40b0-a62f-02ebcce27a78"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1758752574,
+      "httpOnly": false,
+      "name": "FPAU",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "1.2.1953241786.1750976575"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1785536601,
+      "httpOnly": true,
+      "name": "FPID",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "FPID2.2.UGL5wDRPttAdjZDuAZ1%2BIag%2FXwTgAhc2YXzRqZURKZQ%3D.1750976574"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1785536600,
+      "httpOnly": false,
+      "name": "_ga_QZ2MPXED80",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GS2.1.s1750976573$o1$g1$t1750976600$j33$l0$h283522341"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1785536599,
+      "httpOnly": false,
+      "name": "__cuid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "94167cc5280f4ab69f5ca0ba97967cb1"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1750978362,
+      "httpOnly": false,
+      "name": "__hssc",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "180181435.1.1750976562095"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1782512561,
+      "httpOnly": false,
+      "name": "_lfa",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "LF1.1.b043455dc0fd49a6.1750976561879"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1785536599,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GA1.1.1295835265.1750976574"
+    },
+    {
+      "domain": ".framer.com",
+      "httpOnly": false,
+      "name": "__hssrc",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1753568561,
+      "httpOnly": false,
+      "name": "last_touch_visitor",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "%7B%22timestamp%22%3A1750976561317%2C%22url%22%3A%22https%3A%2F%2Fwww.framer.com%2Fsignin%22%2C%22referrer%22%3Anull%2C%22hostname%22%3A%22www.framer.com%22%2C%22pathname%22%3A%22%2Fsignin%22%2C%22search%22%3A%22%22%2C%22hash%22%3Anull%2C%22utm_source%22%3Anull%2C%22utm_medium%22%3Anull%2C%22utm_campaign%22%3Anull%7D"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1766528562,
+      "httpOnly": false,
+      "name": "hubspotutk",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "05427b5b40bfec551a0d0f95fa63b977"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1766528562,
+      "httpOnly": false,
+      "name": "__hstc",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "180181435.05427b5b40bfec551a0d0f95fa63b977.1750976562095.1750976562095.1750976562095.1"
+    },
+    {
+      "domain": ".framer.com",
+      "expiry": 1782512561,
+      "httpOnly": false,
+      "name": "visitor_id",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "value": "17509765612560.42065352342748064"
+    }
+  ],
+  "localStorage": {
+    "__cuid": "94167cc5280f4ab69f5ca0ba97967cb1",
+    "default-dashboard-team-bd3e8a18-a907-4f38-9d14-1b10205ded15": "6fc4a4ca-ea6f-4ae8-a567-25f91bd2fd98",
+    "framer-tracking-client-queue": ""
+  },
+  "sessionStorage": {},
+  "current_url": "https://framer.com/projects/?teamId=6fc4a4ca-ea6f-4ae8-a567-25f91bd2fd98"
+}
